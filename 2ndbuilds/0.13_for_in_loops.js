@@ -9,14 +9,16 @@
 // 	console.log(tvShow[letter])
 // }
 
+//TODO
 var food = "banana"
 var vowelCount = 0;
 for (var letter in food) {
-	if (food[letter].toLowerCase() == "a" || "e" || "i" || "o" || "u") {
+	if (food[letter].toLowerCase() === "a" ||food[letter].toLowerCase() ===  "e" ||food[letter].toLowerCase() ===  "i" ||food[letter].toLowerCase() ===  "o" ||food[letter].toLowerCase() ===  "u") {
 		vowelCount++
 	}
 }
 console.log("There are " + vowelCount + " vowels in " + food)
+
 
 
 
