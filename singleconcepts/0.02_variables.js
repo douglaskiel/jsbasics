@@ -1,22 +1,25 @@
 //this variable is a string type
 var firstname = "Doug";
 var lastname = "Kiel";
-var fullname = firstname +" "+ lastname
-//concatenation (this is where you can build or combine strings)
+var fullname = firstname +" "+ lastname;
+//concatenation (this is where you can 
+//build or combine strings)
 console.log(firstname);
 console.log(firstname +" "+ lastname);
 console.log(fullname);
 
 //empty variables
 
-console.log(num)
+console.log(num);
 var num
-//variables and console.logs when swapped do not change how the computer reads the code.
+//variables and console.logs when swapped 
+//do not change how the computer reads the code.
 
 var petsName = "";
 
 //conventional variable namings
-//camel case (petsName) - first word is lower cased the next words are uppercase
+//camel case (petsName) - first word 
+//is lower cased the next words are uppercase
 
 var packersScoreThisWeekend = 38;
 
@@ -51,11 +54,14 @@ real world uses for integers and create variables based on
 those things. A few examples might include: 
 */
 
-/*var myBankAccount = 2000000; //No dollar sign, we'll discuss how to add this later.
-var numberOfHotDogsKobyashiAte = 39; //Check this stat. Not that's how many he ate.
+/*var myBankAccount = 2000000; //No dollar sign, we'll 
+discuss how to add this later.
+var numberOfHotDogsKobyashiAte = 39; //Check this stat. 
+Not that's how many he ate.
 
 console.log(myBankAccount);
-console.log("Kobyashi:" + numberOfHotDogsKobyashiAte); *//* <----String concatenation
+console.log("Kobyashi:" + numberOfHotDogsKobyashiAte); *//* 
+<----String concatenation
 
 /*-----------------------------------------------------------*/
 
@@ -78,14 +84,19 @@ console.log("Kobyashi:" + numberOfHotDogsKobyashiAte); *//* <----String concaten
 *************************************************************/
 
 /*-----------------------------------------------------------*/
-//CHALLENGE: Gold
-//Challenge #3 - Lifetime Supply
-// Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no more!
+// CHALLENGE: Gold
+// Challenge #3 - Lifetime Supply
+// Ever wonder how much a "lifetime supply" of 
+// your favorite snack is? Wonder no more!
 // Store your current age into a variable.
 // Store a maximum age into a variable.
-// Store an estimated amount of glasses of water per day (as a number).
-// Calculate how many glasses of water you would need for the rest of your life.
-// Output the result to the screen like so: "You will need 5 million glasses to last you until the ripe old age of X".
+// Store an estimated amount of glasses of 
+// water per day (as a number).
+// Calculate how many glasses of water you 
+// would need for the rest of your life.
+// Output the result to the screen like so: 
+// "You will need 5 million glasses to last 
+// you until the ripe old age of X".
 
 var yearsinBerlin = 10;
 var myyearsinKorea = 4;

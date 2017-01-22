@@ -12,7 +12,7 @@ if(isOn){
 
 // && = and 
 if(isOn && isHot){
-	console.log("Dude, that music on, and it is so hot.");
+	console.log("Dude, that music is on, and it is so hot.");
 }
 
 // || = or

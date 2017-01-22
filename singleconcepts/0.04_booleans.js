@@ -40,28 +40,44 @@ var foo = true
 
 console.log(!foo);
 
-//--------------------------------------------------------
-//--------------------------------------------------------
+//-----------------------------------------------
+//-----------------------------------------------
 // ------ Challenge: Boolean Logic  ----------
-//--------------------------------------------------------
-//--------------------------------------------------------
-/*---------------------------------------------------------*/
+//-----------------------------------------------
+//-----------------------------------------------
+/*---------------------------------------------*/
 
 
 /*CHALLENGE: Bronze
-Create 5 boolean variables that would be used in everyday programming
-Using the boolean variables created above integrate logical and comparison operators to return true and false statements in the console.
+Create 5 boolean variables that would 
+be used in everyday programming
+Using the boolean variables created 
+above integrate logical and comparison 
+operators to return true and false 
+statements in the console.
 */
 
 /*CHALLENGE: Silver
-Write your own conditional that deals with Boolean Operators and Boolean Logic. Get as complicated as you want, just make sure it runs. Sign up for an account on Repl.io. Add the code there and send it to James, Paul, and Kenn. You can do that on Slack by using the @ symbol for all of us.
+Write your own conditional that deals 
+with Boolean Operators and Boolean Logic. 
+Get as complicated as you want, 
+just make sure it runs. Sign up for an 
+account on Repl.io. Add the code there 
+and send it to James, Paul, and Kenn. 
+You can do that on Slack by using the 
+@ symbol for all of us.
 */
 
 /*CHALLENGE: Gold 
-I want to order some Colts gear online(Jona, go ahead with the Bengals(boo)), and I'm not sure 
-which courier service to use yet. I want to know which one to use
-for Next Day Air, 2 day air, 3 day ground, and whenever. Can you write
-an if/else statement that helps me pick the best one? It's just your opinion here.
+I want to order some Colts gear online
+(Jona, go ahead with the Bengals(boo)), 
+and I'm not sure 
+which courier service to use yet. I want 
+to know which one to use
+for Next Day Air, 2 day air, 3 day ground, 
+and whenever. Can you write
+an if/else statement that helps me 
+pick the best one? It's just your opinion here.
 */
 
 //var ___ = ___: initialized variable

@@ -15,12 +15,14 @@ console.log(26 % 10624);
 //--------------------------------------------------------
 
 /*CHALLENGE: Bronze 
-Create four integers: your age, birth year, graduation year, and number of brothers and sisters. 
-Print them to the console. Put comments above each one to identify.
+Create four integers: your age, birth year, graduation year, and 
+number of brothers and sisters. Print them to the console. 
+Put comments above each one to identify.
 */
 
 /* CHALLENGE: Silver
-Using the modulus, write some simple modulus equations that will yield the numbers below. Use only two numbers:
+Using the modulus, write some simple modulus equations that will 
+yield the numbers below. Use only two numbers:
 1, 2, 12
 */
 
